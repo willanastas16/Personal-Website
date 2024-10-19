@@ -1,0 +1,104 @@
+body {
+    font-family: 'Arial', Cambria; 
+    background-color: darkgoldenrod; 
+    color: black; 
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 7.5em; 
+    font-style: bold;
+    font-family: Calibri;
+    color: blue; 
+    margin: 20px auto;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size:10em; 
+    color: green;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 20px auto;
+}
+
+h3 {
+    margin-bottom: 20px;
+    font-family: cursive;
+    font-size: 5em; 
+    color: green; 
+    margin: 20px auto;
+}
+
+h4 {
+    margin-bottom: 20px;
+    font-size: 4.5em; 
+    color: green; 
+    font-family: Calibri;
+    margin: 20px auto;
+}
+
+h5  {
+    margin-bottom: 20px;
+    font-size: 2.5em; 
+    font-family: Calibri;
+    color: white; 
+    margin: 20px auto;
+
+}
+
+h6 {
+    margin-bottom: 20px;
+    font-size: 2.5em; 
+    font-family: Arial;
+    color: white; 
+    margin: 20px auto;
+
+}
+
+
+button {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: blue; 
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: navy; 
+}
+
+img {
+    display: text;
+    margin: 20px auto; 
+    border-radius: 10px; 
+    width: 1000px; 
+    height: 800px;
+}
+
+.image-container1  {
+    font-size: 2.75em; 
+    color:white;
+    font-family: Calibri;
+    margin: 10px ;
+}
+
+.image-container2  {
+    font-size: 2.75em; 
+    color:white;
+    font-family: Calibri;
+    margin: 10px ;
+}
+
+ul {
+    font-size: 1.75em; 
+    color:white;
+    font-family: Calibri;
+    margin: 10px ;
+    text-align: center;
+}
