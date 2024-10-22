@@ -13,7 +13,7 @@ h1 {
     font-style: bold;
     font-family: Calibri;
     color: blue; 
-    margin: 20px auto;
+    
 }
 
 h2 {
@@ -22,7 +22,7 @@ h2 {
     color: green;
     font-style: italic;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    margin: 20px auto;
+    
 }
 
 h3 {
@@ -38,7 +38,7 @@ h4 {
     font-size: 4.5em; 
     color: green; 
     font-family: Calibri;
-    margin: 20px auto;
+    
 }
 
 h5  {
@@ -46,7 +46,7 @@ h5  {
     font-size: 2.5em; 
     font-family: Calibri;
     color: white; 
-    margin: 20px auto;
+    
 
 }
 
@@ -55,7 +55,7 @@ h6 {
     font-size: 1.5em; 
     font-family: Arial;
     color: white; 
-    margin: 20px auto;
+    
 
 }
 
