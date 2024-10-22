@@ -18,7 +18,7 @@ h1 {
 
 h2 {
     margin-bottom: 20px;
-    font-size:10em; 
+    font-size:6em; 
     color: green;
     font-style: italic;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -52,7 +52,7 @@ h5  {
 
 h6 {
     margin-bottom: 20px;
-    font-size: 2.5em; 
+    font-size: 1.5em; 
     font-family: Arial;
     color: white; 
     margin: 20px auto;
